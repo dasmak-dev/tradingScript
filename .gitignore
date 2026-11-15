@@ -1,0 +1,5 @@
+# Claves y estado del bot (no subir a git)
+.streamlit/secrets.toml
+bot_state_*.json
+__pycache__/
+.venv/
